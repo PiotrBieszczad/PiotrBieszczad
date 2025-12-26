@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 About me:
-2nd year grad student TUDelft, studying Data Science and Artificial Intelligence.
+2nd year grad student @ TUDelft, studying Data Science and Artificial Intelligence.
 
 Currently working on my Master's Thesis with Neura Robotics on the topic of fine-tuning VLA's with Reinforcement Learning.
 
